@@ -1,6 +1,6 @@
 {
   "serverType": "static",
-  "domain": "http://localhost:3000/",
+  "domain": "https://platformer-template.com/",
   "path": "/",
   "rootfolder": "/",
   "runfile": "/index.html",
