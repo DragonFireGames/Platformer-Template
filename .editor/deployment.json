@@ -1,15 +1,11 @@
 {
-  "mode": "editor",
-  "url": "/",
-  "usePeerServer": false,
-  "branch": "main",
-  "commit": "",
+  "thirdParty": false,
   "externalUrl": "",
-  "externalMode": "iframe",
-  "hookUrl": "",
-  "peerLayer": "LQOiZt",
+  "branch": "main",
+  "commit": "latest",
+  "path": "/",
   "repo": {
     "owner": "DragonFireGames",
-    "name": "Platform-Template"
+    "name": "Platformer-Template"
   }
 }

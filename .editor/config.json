@@ -6,5 +6,8 @@
   "runfile": "/index.html",
   "nodeCommand": "node server.js",
   "cwd": "/",
-  "autoClear": true
+  "autoClear": true,
+  "usePeerServer": false,
+  "peerLayer": "LQOiZt",
+  "saveEnvironmentVariables": false
 }
